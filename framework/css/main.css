@@ -9,6 +9,14 @@
     box-sizing: border-box;
 }
 
+/*
+
+@media only screen and (min-width: 500px) {
+    p {
+        display: none;
+    }
+} */
+
 .grid {
     margin: 0 auto;
     max-width: 1200px;
@@ -20,7 +28,7 @@
     margin-bottom: 20px;
     display: flex;
     flex-wrap: wrap;
-    
+
 }
 
 .col-1 {
